@@ -8,30 +8,30 @@ Primary Skills:
 npm init --yes
 
 
-[] instalar una serie de modulos, utilizamos un framework de servidor que nos ayude a escribir codigo
+[x] instalar una serie de modulos, utilizamos un framework de servidor que nos ayude a escribir codigo
 npm install express ejs morgan
 usaremos modulo EXPRESS-- framework de Node
 motor de plantilla  ejs --- mejora del html-añade condicionales-bucle- https://www.oscarlijo.com/blog/plantillas-ejs/
 modelo-modulo- llamado morgan-- nos ayuda a ver por consola lo que nuestros navegadores estan pidiendo a nuestro servidor- forma de ver
 los registros de las peticiones que hacen los usuarios al servidor
 
-[]creo una carpeta llamada SRC y dentro de ella un archivo llamado index.js
+[x]creo una carpeta llamada SRC y dentro de ella un archivo llamado index.js
 
 
-[]modificacion del package.json en el apartado scripts
+[x]modificacion del package.json en el apartado scripts
 
-[] instalacion de un modulo nuevo llamado nodemon
+[x] instalacion de un modulo nuevo llamado nodemon
 npm install nodemon -D 
 este modulo sera instalado como una Dependencia de desarrollo con el flag -D, 
 nodemon hace que cada vez que haga cambios en el codigo, el servidor se reinicia automaticamente
 
 
-[] a partir de ahora ejecutaremos 
+[x] a partir de ahora ejecutaremos 
 npm run dev / node src
 
-[] creamos las rutas en routes/index.js
+[x] creamos las rutas en routes/index.js
 
-[]
+[x] creamos una carpeta llamada 'partials'
 
 
 []

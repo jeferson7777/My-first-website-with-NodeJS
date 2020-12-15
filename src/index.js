@@ -24,7 +24,7 @@ app.use(require('./routes/index')); //importado
 
 
 //static files
-
+app.use(express.static(path.join(__dirname, 'public')))
 
 
 

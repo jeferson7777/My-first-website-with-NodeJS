@@ -14,7 +14,7 @@ router.get("/family", (req, res) => {
 });
 
 router.get("/friends", (req, res) => {
-  res.render("friends.html", { title: "FriendS" });
+  res.render("friends.html", { title: "Friends" });
 });
 
 
