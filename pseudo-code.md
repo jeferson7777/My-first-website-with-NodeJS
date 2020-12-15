@@ -11,7 +11,7 @@ npm init --yes
 [] instalar una serie de modulos, utilizamos un framework de servidor que nos ayude a escribir codigo
 npm install express ejs morgan
 usaremos modulo EXPRESS-- framework de Node
-motor de plantilla  ejs --- mejora del html-añade condicionales-bucle
+motor de plantilla  ejs --- mejora del html-añade condicionales-bucle- https://www.oscarlijo.com/blog/plantillas-ejs/
 modelo-modulo- llamado morgan-- nos ayuda a ver por consola lo que nuestros navegadores estan pidiendo a nuestro servidor- forma de ver
 los registros de las peticiones que hacen los usuarios al servidor
 
@@ -27,9 +27,9 @@ nodemon hace que cada vez que haga cambios en el codigo, el servidor se reinicia
 
 
 [] a partir de ahora ejecutaremos 
-npm run dev
+npm run dev / node src
 
-[]
+[] creamos las rutas en routes/index.js
 
 []
 
