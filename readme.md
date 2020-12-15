@@ -18,3 +18,5 @@ and the reason Why I choose certain modules.
 # Issues
 For any problem that you find, open an issue here on github or if
 native language is Spanish join us on [Discord](https://discord.gg/37PHuNw)
+
+# Tecnology
