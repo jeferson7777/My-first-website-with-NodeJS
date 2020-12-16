@@ -23,6 +23,7 @@ router.get("/projects", (req, res) => {
 });
 
 
+
 router.get("/contacts", (req, res) => {
   res.render("contacts.html", { title: "contacts" });
 });

@@ -1,7 +1,7 @@
 {
   "name": "My-first-website-with-NodeJS",
   "version": "1.0.0",
-  "description": "",
+  "description": "pantallazo de mi website--- ![](docs/screenshot.png)",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src",

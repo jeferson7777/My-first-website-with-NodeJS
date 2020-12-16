@@ -1,6 +1,17 @@
-## PROJECT STARTING 8D / NO TIMING LIMIT / AUTHORS: ISMA, JEFF Y AURE
+## PROJECT STARTING JEFF
+
+
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 Primary Skills:
+
+### mi repositorio
+puedes conocerme y econtrarme a traves de mi repositorio 
+`<link>` : <https://github.com/jeferson7777/My-first-website-with-NodeJS-Jef>
+----------
+
+
+
 
 [x] create repository in GitHub
 
@@ -31,14 +42,29 @@ npm run dev / node src
 
 [x] creamos las rutas en routes/index.js
 
+[x] creamos varias paginas: home-family-friends-project-contact
+
 [x] creamos una carpeta llamada 'partials'
 
 
-[]
+[x] damos estilo a la pagina con las siguientes herramientas
+
+**getbootstrap**
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+**uigradient**
+https://uigradients.com/#Harvey
+**fontawesome**
+https://fontawesome.com/icons?d=gallery
 
 []
 
-[]
+
+
+
+
+
+
+
 
 
 [] Use Node for login and autentications of users
