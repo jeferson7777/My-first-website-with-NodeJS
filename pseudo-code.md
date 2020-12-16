@@ -56,6 +56,11 @@ https://uigradients.com/#Harvey
 **fontawesome**
 https://fontawesome.com/icons?d=gallery
 
+[]adjuntamos fotos
+[]instalamos  npm install -g now
+[]create gitignore
+[]
+[]
 []
 
 
