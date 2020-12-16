@@ -5,3 +5,55 @@ body {
   background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+.my-element {
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: rubberBand; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 4s; /* don't forget to set a duration! */
+  animation-delay: 2s;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.my-elementos {
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: tada; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 4s; /* don't forget to set a duration! */
+  animation-delay: 2s;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.my-amistad {
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation:  	zoomOut; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 4s; /* don't forget to set a duration! */
+  animation-delay: 2s;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.my-project {
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: fadeOut; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 4s; /* don't forget to set a duration! */
+  animation-delay: 2s;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.my-elementos {
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: tada; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 4s; /* don't forget to set a duration! */
+  animation-delay: 2s;
+  margin-bottom: 20px;
+  text-align: center;
+}
