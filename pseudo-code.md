@@ -60,7 +60,8 @@ https://fontawesome.com/icons?d=gallery
 []instalamos  npm install -g now
 []create gitignore
 []
-[]
+
+[] 
 []
 
 
