@@ -41,17 +41,17 @@ body {
   display: inline-block;
   margin: 0 0.5rem;
 
-  animation: fadeOut; /* referring directly to the animation's @keyframe declaration */
+  animation: rollIn; /* referring directly to the animation's @keyframe declaration */
   animation-duration: 4s; /* don't forget to set a duration! */
   animation-delay: 2s;
   margin-bottom: 20px;
   text-align: center;
 }
-.my-elementos {
+.my-index {
   display: inline-block;
   margin: 0 0.5rem;
 
-  animation: tada; /* referring directly to the animation's @keyframe declaration */
+  animation: slideOutLeft; /* referring directly to the animation's @keyframe declaration */
   animation-duration: 4s; /* don't forget to set a duration! */
   animation-delay: 2s;
   margin-bottom: 20px;
