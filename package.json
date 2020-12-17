@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jeferson7777/My-first-website-with-NodeJS#readme",
   "dependencies": {
+    "animate.css": "^4.1.1",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "morgan": "^1.10.0"
