@@ -61,7 +61,12 @@ https://fontawesome.com/icons?d=gallery
 []create gitignore
 []
 
-[] 
+[] desplegar nuestra app usando ==> empresa llamada   zeit== nos permite desplegar app utilizando SERVIDORES ya configurados, solo hace
+falta subir el código y ya.  Este servido o esta manera de poder publicar nuestrea app se le conoce como NOW, es un paquete de  NODE, 
+Instalamos un paquete de NODE ---ejecutamos el comando ---y automaticamente nuestra app sube  a sus servidores y si queremos luego nosotos podemos configurarlo
+como por ejemplo cambiar el Dominio-
+A demas es GRATUITO----ES EQUIVALENTE A HEROKU
+
 []
 
 
